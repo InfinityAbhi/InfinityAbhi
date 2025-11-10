@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Abhishek Bote<br><br><br> I'm a Backend & Platform Engineer (AI/ML) in NYC  4+ yrs building high-performance microservices, intelligent data pipelines, and LLM integrations.</h2>
 
 ###
-
+![](https://komarev.com/ghpvc/?username=InfinityAbhi&color=red)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=InfinityAbhi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=InfinityAbhi&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
