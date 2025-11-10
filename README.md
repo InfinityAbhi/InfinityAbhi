@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Bote</h1>
-<h3 align="center">ackend & Platform Engineer (AI/ML) in NYC — 4+ yrs building high-performance microservices, intelligent data pipelines, and LLM integrations.</h3>
+<h3 align="center">Backend & Platform Engineer (AI/ML) in NYC — 4+ yrs building high-performance microservices, intelligent data pipelines, and LLM integrations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinityabhi&label=Profile%20views&color=0e75b6&style=flat" alt="infinityabhi" /> </p>
 
