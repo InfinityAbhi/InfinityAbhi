@@ -1,4 +1,4 @@
-<h2 align="left">👑 👑 Hi ! My name is Abhishek Bote 👑 👑 <br><br><br> I'm a Backend & Platform Engineer (AI/ML) in NYC  6+ yrs building high-performance microservices, intelligent data pipelines, and LLM integrations.</h2>
+<h2 align="left"> Hi ! My name is Abhishek Bote  <br><br><br> I'm a Backend & Platform Engineer (AI/ML) in NYC  6+ yrs building high-performance microservices, intelligent data pipelines, and LLM integrations.</h2>
 
 ###
 ![](https://komarev.com/ghpvc/?username=InfinityAbhi&color=red)
